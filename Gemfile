@@ -29,6 +29,7 @@ gem 'devise'
 gem 'jquery-rails'
 gem 'slim-rails'
 gem 'thin'
+gem "figaro"
 group :development do
   gem 'foreman'
   gem 'rails_layout'
