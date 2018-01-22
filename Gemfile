@@ -30,6 +30,7 @@ gem 'jquery-rails'
 gem 'slim-rails'
 gem 'thin'
 gem "figaro"
+gem 'ruby-hmac', '~> 0.4.0'
 group :development do
   gem 'foreman'
   gem 'rails_layout'
