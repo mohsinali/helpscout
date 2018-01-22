@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   resources :webhooks, only: :none do
     collection do
       get :helpscout
+      post :helpscout
     end
   end
 end
