@@ -1,1 +1,1 @@
-json.content "<p>This is <i>serious</i> monkey business</p>"
+json.html "<p>This is <i>serious</i> monkey business</p>"
